@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1700068126 source:c:\users\ibrah\onedrive\desktop\lab_6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<point.h>
+	<shape.h>
+	<rectangle.h>
+	<circle.h>
+	<line.h>
+
+1700064319 source:c:\users\ibrah\onedrive\desktop\lab_6\src\circle.cpp
+
+1700067853 c:\users\ibrah\onedrive\desktop\lab_6\include\circle.h
+	<shape.h>
+	<iostream>
+
+1700063883 c:\users\ibrah\onedrive\desktop\lab_6\include\shape.h
+	<point.h>
+	<iostream>
+
+1700067018 c:\users\ibrah\onedrive\desktop\lab_6\include\point.h
+	<iostream>
+
+1700064418 source:c:\users\ibrah\onedrive\desktop\lab_6\src\line.cpp
+
+1700067059 c:\users\ibrah\onedrive\desktop\lab_6\include\line.h
+	<shape.h>
+	<iostream>
+
+1700063901 source:c:\users\ibrah\onedrive\desktop\lab_6\src\point.cpp
+
+1700063904 source:c:\users\ibrah\onedrive\desktop\lab_6\src\rectangle.cpp
+
+1700063909 source:c:\users\ibrah\onedrive\desktop\lab_6\src\shape.cpp
+
+1700068036 c:\users\ibrah\onedrive\desktop\lab_6\include\rectangle.h
+	<shape.h>
+	<iostream>
+
+1700126484 source:c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\point.h
+	<iostream>
+	<graphics.h>
+
+1700126465 source:c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\circle.h
+	<iostream>
+	<graphics.h>
+	"shape.h"
+
+1700126498 c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\shape.h
+	<iostream>
+	<graphics.h>
+	"point.h"
+
+1700126484 c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\point.h
+	<iostream>
+	<graphics.h>
+
+1700126470 source:c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\line.h
+	<iostream>
+	<graphics.h>
+	"shape.h"
+
+1700126479 source:c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\rectangle.h
+	<iostream>
+	<graphics.h>
+	"shape.h"
+
+1700126498 source:c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\shape.h
+	<iostream>
+	<graphics.h>
+	"point.h"
+
+1700128672 source:c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	"include/point.h"
+	"include/shape.h"
+	"include/circle.h"
+	"include/rectangle.h"
+	"include/line.h"
+
+1700126465 c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\circle.h
+	<iostream>
+	<graphics.h>
+	"shape.h"
+
+1700126479 c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\rectangle.h
+	<iostream>
+	<graphics.h>
+	"shape.h"
+
+1700126470 c:\users\ibrah\onedrive\desktop\iti_c++\lab_6\include\line.h
+	<iostream>
+	<graphics.h>
+	"shape.h"
+

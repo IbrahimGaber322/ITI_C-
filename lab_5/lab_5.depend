@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1699872301 source:c:\users\ibrah\onedrive\desktop\lab_5\src\point.cpp
+	"point.h"
+
+1699871069 c:\users\ibrah\onedrive\desktop\lab_5\include\point.h
+
+1699871493 source:c:\users\ibrah\onedrive\desktop\lab_5\src\rectangle.cpp
+	"rectangle.h"
+
+1699871493 c:\users\ibrah\onedrive\desktop\lab_5\include\rectangle.h
+
+1699877935 source:c:\users\ibrah\onedrive\desktop\lab_5\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+
