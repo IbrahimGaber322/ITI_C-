@@ -16,6 +16,7 @@ class lin : public shape
         };
 
         void draw(){
+          cout<<"Line draw"<<endl;
           int x1 = p1.getX();
           int y1 = p1.getY();
           int x2 = p2.getX();

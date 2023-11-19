@@ -17,6 +17,10 @@ class shape
               cout<<"Shape created"<<endl;
               color = _color;
         };
+
+        virtual void draw(){
+           cout<<"Shape draw"<<endl;
+        }
         ~shape(){
 
              cout<<"Shape destroyed"<<endl;
@@ -27,6 +31,7 @@ class shape
         point p2;
         int color;
     private:
+        int index;
 };
 
 #endif // SHAPE_H

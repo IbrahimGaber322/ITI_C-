@@ -15,7 +15,8 @@ class rect : public shape
         rect(point _p1, point _p2, int _color ): shape(_p1,_p2,_color){
             cout<<"Reactangle created" <<endl;
         };
-         void draw(){
+          void draw(){
+          cout<<"Rectangle draw"<<endl;
           int x1 = p1.getX();
           int y1 = p1.getY();
           int x2 = p2.getX();

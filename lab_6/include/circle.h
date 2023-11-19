@@ -17,6 +17,7 @@ class circ:public shape
             radius = _radius;
         };
           void draw(){
+          cout<<"Circle draw"<<endl;
           int x1 = p1.getX();
           int y1 = p1.getY();
           setcolor(color);
